@@ -26,6 +26,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```markdown
+Syntax highlighted code block
+
+# One
+- making of lists
+## Two
+1.This looks good
+2. space after bullet?
+### Three
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
